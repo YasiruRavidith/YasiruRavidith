@@ -104,7 +104,7 @@
 
 ###
 
-<img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU2MzN6a2hxZ3M3bzVqN2d6bHgzYW16czB6MTFkeHFleG5mbGFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2d4uMzn7dzOVHcUHA/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU2MzN6a2hxZ3M3bzVqN2d6bHgzYW16czB6MTFkeHFleG5mbGFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2d4uMzn7dzOVHcUHA/giphy.gif"  />
 
 ###
 
@@ -119,5 +119,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=YasiruRavidith&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
 
 ###
