@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://github.com/YasiruRavidith/YasiruRavidith/blob/main/.github/workflows/wallpaperflare-cropped.jpg?raw=true"  />
+  <img height="280" src="https://github.com/YasiruRavidith/YasiruRavidith/blob/main/.github/workflows/wallpaperflare-cropped%20(1).jpg?raw=true"  />
 </div>
 
 ###
