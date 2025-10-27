@@ -32,7 +32,6 @@
 <div align="left"> 
   <br clear="both"> 
   
-  
   <a href="https://www.youtube.com/@NECROMANCER_2003" target="_blank">  
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />  
   </a>  
@@ -57,7 +56,7 @@
 
 <div>  
   <p align="center">  
-    
+  
   <kbd>  
     <kbd>Programming Languages</kbd>  
     <br><br>  
@@ -67,6 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30px" />  
   </kbd>  
 
@@ -80,10 +80,20 @@
   </kbd>  
 
   <kbd>  
+    <kbd>Mobile & Desktop</kbd>  
+    <br><br>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30px" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30px" />  
+  </kbd>  
+
+  <kbd>  
     <kbd>Back-end</kbd>  
     <br><br>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30px" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30px" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30px" />  
   </kbd>  
 
   <kbd>  
@@ -108,9 +118,16 @@
     <br><br>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30px" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" />  
+  </kbd>  
+
+  <kbd>  
+    <kbd>Cloud & Deployment</kbd>  
+    <br><br>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30px" />  
   </kbd>  
 
   <kbd>  
@@ -139,4 +156,3 @@
 
 
 ---
-
