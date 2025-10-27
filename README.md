@@ -1,11 +1,11 @@
-<br clear="both">  
-<h1 align="center">Hi 👋, I'm Yasiru Ravidith!</h1>  
-<br clear="both">  
-<div align="center">  
+<br clear="both">
+<h1 align="center">Hi 👋, I'm Yasiru Ravidith!</h1>
+<br clear="both">
+<div align="center">
   <img height="280" src="https://github.com/YasiruRavidith/YasiruRavidith/blob/main/.github/workflows/wallpaperflare-cropped%20(1).jpg?raw=true"  />  
-</div>  
-<br clear="both">  
-<h2 align="center">🎓 I'm a student at the <b>University of Kelaniya</b>, passionate about turning ideas into reality through code. I'm always up for a challenge😉.</h2>  
+</div>
+<br clear="both">
+<h2 align="center">🎓 I'm a student at the <b>University of Kelaniya</b>, passionate about turning ideas into reality through code. I'm always up for a challenge😉.</h2>
 <br clear="both"> 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Spotify Playing 🎧
@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YasiruRavidith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />  
   <img src="https://streak-stats.demolab.com?user=YasiruRavidith&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasiruRavidith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />  
-</div>  
+</div>
 <br clear="both">  
 <div align="left"> 
   <br clear="both">  
@@ -85,6 +85,7 @@
     <kbd>Databases</kbd>  
     <br><br>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30px" />  
   </kbd>  
   <kbd>  
